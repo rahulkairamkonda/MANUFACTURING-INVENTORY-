@@ -1,0 +1,40 @@
+h2{
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+  line-height: 120px;
+  text-align: center;
+}
+
+.block1{
+  background-color: grey;
+  height:175px;
+  float: left;
+  border: 30px solid white;
+  width: 43%;
+}
+
+.block2{
+  background-color: grey;
+  height: 175px;
+  float: right;
+  border: 30px solid white;
+  width: 43%;
+}
+
+.block3{
+  background-color: grey;
+  height: 175px;
+  float: left;
+  border: 30px solid white;
+  width: 43%;
+}
+
+.block4{
+  background-color: grey;
+  height: 175px;
+  float: right;
+  border: 30px solid white;
+  width: 43%;
+}
